@@ -1,6 +1,10 @@
 
 ## development log
 
+*02/12/2022* - lines tool  
+
+[![asciicast](https://asciinema.org/a/468638.svg)](https://asciinema.org/a/468638)
+
 *02/10/2022* - (p)npm search tool  
 
 [![asciicast](https://asciinema.org/a/468256.svg)](https://asciinema.org/a/468256)
