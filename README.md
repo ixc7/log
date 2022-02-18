@@ -1,6 +1,10 @@
 
 ## development log
 
+*02/18/2022* - git-all tool  
+
+[![asciicast](https://asciinema.org/a/469920.svg)](https://asciinema.org/a/469920)
+
 *02/12/2022* - lines tool  
 
 [![asciicast](https://asciinema.org/a/468638.svg)](https://asciinema.org/a/468638)
