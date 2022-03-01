@@ -1,6 +1,10 @@
 
 ## development log
 
+*03/01/2022* - second attempt at ncurses  
+
+[![asciicast](https://asciinema.org/a/473114.svg)](https://asciinema.org/a/473114)  
+
 *02/26/2022* - pupdate
 
 [![asciicast](https://asciinema.org/a/472051.svg)](https://asciinema.org/a/472051)  
