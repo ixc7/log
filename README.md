@@ -1,6 +1,8 @@
 
 ## development log
 
+*03/09/2022* - [oracle updates](https://www.youtube.com/watch?v=kHW58D-_O64)
+
 *03/01/2022* - second attempt at ncurses  
 
 [![asciicast](https://asciinema.org/a/473114.svg)](https://asciinema.org/a/473114)  
