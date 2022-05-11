@@ -1,6 +1,8 @@
 
 ## development log
 
+*05/11/2022* - [shoutcloud](https://github.com/SHOUTCLOUD/SHOUTCLOUD_NODE)
+
 *03/09/2022* - [oracle updates](https://www.youtube.com/watch?v=kHW58D-_O64)
 
 *03/01/2022* - second attempt at ncurses  
