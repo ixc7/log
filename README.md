@@ -1,6 +1,8 @@
 
 ## development log
 
+*05/20/2022* - [gotobed.org](https://gotobed.org/)
+
 *05/20/2022* - [one less to go](https://devnull-as-a-service.com/one-less-to-go.sh)
 
 *05/11/2022* - [shoutcloud](http://shoutcloud.io)
