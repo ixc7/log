@@ -1,6 +1,8 @@
 
 ## development log
 
+*05/20/2022* - [one less to go](https://devnull-as-a-service.com/one-less-to-go.sh)
+
 *05/11/2022* - [shoutcloud](http://shoutcloud.io)
 
 *03/09/2022* - [oracle updates](https://www.youtube.com/watch?v=kHW58D-_O64)
