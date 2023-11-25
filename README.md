@@ -3,6 +3,8 @@
 
 *11/25/2023* - [ToneHunt CLI](https://github.com/ixc7/ToneHunt)
 
+[![asciicast](https://asciinema.org/a/nlooE7vEulIfGeYNsrPxABqtz.svg)](https://asciinema.org/a/nlooE7vEulIfGeYNsrPxABqtz)
+
 *08/09/2022* - [elysia](https://yewtu.be/watch?v=mlwm4PijbgM)
 
 *06/27/2022* - [no surrender](https://yewtu.be/watch?v=MZTfrrVz3BY)
